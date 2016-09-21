@@ -1,1 +1,1 @@
- learn about ruby ( sabtu-minggu)
+learn about golang
